@@ -54,6 +54,8 @@ This repository contains multiple Android applications developed in Kotlin. Belo
 - Add, update, and delete inventory items.
 - Each item has a name, quantity, and price.
 - Data is managed via integration with a Google Apps Script backend.
+- Inventory data is **synced both ways** with a [Google Sheet](https://docs.google.com/spreadsheets/d/1xR-EDDN9sTI-1CLSevPtB9luavjufXro9a2sVI7OSkE/edit?usp=sharing):  
+  Any changes made in the app or directly in the sheet are automatically synchronized.
 - User-friendly dialogs for editing and saving inventory details.
 
 ### Screenshots
