@@ -23,8 +23,8 @@ This repository contains multiple Android applications developed in Kotlin. Belo
 
 ### Screenshots
 
-![Tippy Main Screen](screenshots/tippy_main.png)
-![Tippy Calculation Example](screenshots/tippy_calculation.png)
+<img src="screenshots/tippy_main.png" alt="Tippy Main Screen" width="50%" />
+<img src="screenshots/tippy_calculation.png" alt="Tippy Calculation Example" width="50%" />
 
 ---
 
@@ -41,8 +41,7 @@ This repository contains multiple Android applications developed in Kotlin. Belo
 
 ### Screenshots
 
-![Register Screen](screenshots/registerlogin_register.png)
-![Login Screen](screenshots/registerlogin_login.png)
+<img src="screenshots/registerlogin_register.png" alt="Register Screen" width="50%" />
 
 ---
 
@@ -59,9 +58,9 @@ This repository contains multiple Android applications developed in Kotlin. Belo
 
 ### Screenshots
 
-![Inventory List](screenshots/inventory_list.png)
-![Edit Item Dialog](screenshots/inventory_edit.png)
-![Add Item Dialog](screenshots/inventory_add.png)
+<img src="screenshots/inventory_list.png" alt="Inventory List" width="50%" />
+<img src="screenshots/inventory_edit.png" alt="Edit Item Dialog" width="50%" />
+<img src="screenshots/inventory_add.png" alt="Add Item Dialog" width="50%" />
 
 ---
 
