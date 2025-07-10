@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <item name="etLinkUrl" type="id" />
+    <item name="etLinkDesc" type="id" />
+    <item name="btnSaveLink" type="id" />
 </resources>

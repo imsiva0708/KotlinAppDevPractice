@@ -40,7 +40,7 @@
             app:tint="@android:color/holo_blue_dark" />
 
         <ImageButton
-            android:id="@+id/btnDeleteLink"
+            android:id="@+id/btnDeleteImage"
             android:layout_width="24dp"
             android:layout_height="24dp"
             android:src="@drawable/ic_delete"

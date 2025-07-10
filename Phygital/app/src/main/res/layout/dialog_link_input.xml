@@ -1,21 +1,29 @@
+
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:orientation="vertical"
-    android:padding="16dp">
+    android:padding="24dp"
+    android:orientation="vertical">
 
     <EditText
-        android:id="@+id/etDialogLinkUrl"
+        android:id="@+id/etLinkUrl"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="https://example.com"
+        android:hint="Enter URL"
         android:inputType="textUri" />
 
     <EditText
-        android:id="@+id/etDialogLinkDesc"
+        android:id="@+id/etLinkDesc"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Description"
-        android:inputType="text"
-        android:layout_marginTop="8dp" />
+        android:hint="Enter Description"
+        android:inputType="text" />
+
+    <Button
+        android:id="@+id/btnSaveLink"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:layout_gravity="end"
+        android:layout_marginTop="16dp"/>
 </LinearLayout>

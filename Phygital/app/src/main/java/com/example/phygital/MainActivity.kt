@@ -1,5 +1,6 @@
 package com.example.phygital
 
+import android.content.Intent
 import android.os.Bundle
 import android.widget.EditText
 import android.widget.ImageButton
@@ -74,6 +75,8 @@ class MainActivity : AppCompatActivity() {
 
         ibCreateTag.setOnClickListener {
             Toast.makeText(this,"You Clicked Create Tag", Toast.LENGTH_SHORT).show()
+            val intent = Intent(this, TagInputActivity::class.java);
+            startActivity(intent);
         }
 
 
